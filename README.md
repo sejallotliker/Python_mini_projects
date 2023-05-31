@@ -1,2 +1,3 @@
 # Python_mini_projects
-Mini projects using python
+
+In this repository, Mini projects are done using Python. 
